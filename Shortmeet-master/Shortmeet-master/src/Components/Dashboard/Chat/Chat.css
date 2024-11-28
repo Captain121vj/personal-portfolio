@@ -1,0 +1,18 @@
+/* This CSS goes in your stylesheet or component CSS */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 12px; /* Adjust the width as needed */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #6395ff;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #4179f1; /* Change color on hover */
+  }
+  

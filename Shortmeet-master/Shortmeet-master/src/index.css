@@ -1,0 +1,17 @@
+
+
+img{
+    max-width: none !important;
+    height: none !important;
+}
+
+.img-height{
+    height: 20px;
+}
+
+.z-999{
+    z-index: 999;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
